@@ -9,3 +9,8 @@ and actually make them available, I had to get information from others
 About the task, that's not the best at all and the teaching mehn. The teaching was like 
 Saying 1+1= 2 and setting accessment for (x + z² × 46 ) where x is the coefficient of 7 .
 Not the best at alll.
+
+
+URL: to Lucid post about 
+how CSS has made HTML better :
+https://lucid.blog/bosseythomas/post/how-css-has-made-html-better-301
